@@ -28,7 +28,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS) na FATEC**. Sou um p
 ---
 
 ### 🎯 Objetivo Próximo
-Atualmente buscando oportunidades como **Estagiário ou Assistente nas áreas de BI, Análise de Dados ou Operações Técnicas**, onde eu possa aplicar automação e análise para otimizar fluxos de trabalho.
+Atualmente buscando oportunidades como **Estagiário ou Assistente nas áreas de BI, Análise de Dados ou Desenvolvimento de Software**, onde eu possa aplicar automação e análise para otimizar fluxos de trabalho.
 
 ---
 
