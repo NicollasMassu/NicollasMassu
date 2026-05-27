@@ -1,4 +1,4 @@
-# Olá, eu sou o Nicollas Massu! 👋
+# Eu sou o Nicollas Massu!
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS) na FATEC**. Sou um profissional focado na interseção entre **Inteligência de Dados (BI)** e **Desenvolvimento de Software**, utilizando o raciocínio lógico e a tecnologia para otimizar processos operacionais e gerar insights estratégicos.
 
